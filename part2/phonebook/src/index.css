@@ -1,0 +1,17 @@
+.messageSuccess {
+  color: lightgreen;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.messageError {
+  color: rgb(241, 72, 72);
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
