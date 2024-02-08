@@ -1,0 +1,9 @@
+/.git
+/node_modules
+.dockerignore
+.env
+Dockerfile
+fly.toml
+person.rest
+README.md
+/rough
